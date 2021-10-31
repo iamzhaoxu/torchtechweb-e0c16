@@ -414,7 +414,7 @@ models:
       - type: string
         name: title_suffix
         label: Title Suffix
-        description: The title prefix of the section
+        description: The title suffix of the section
       - type: string
         name: subtitle
         label: Subtitle
