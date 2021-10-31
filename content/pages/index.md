@@ -2,8 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    title: Are your business ready for more digital blooming?
-    subtitle: We can deliver digital transformation for your business
+    title_prefix: Are Your Business Ready For More
+    title_highlight: Digital
+    title_suffix: Blooming ?
+    subtitle: The fast and simple way to transform your organization IT experience
     actions:
       - label: Learn More
         url: /features

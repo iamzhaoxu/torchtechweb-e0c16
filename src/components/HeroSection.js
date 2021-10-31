@@ -28,7 +28,9 @@ export default class HeroSection extends React.Component {
         const image = _.get(section, 'image');
         const imageAlt = _.get(section, 'image_alt', '');
         const imagePosition = _.get(section, 'image_position', 'left');
-        const title = _.get(section, 'title');
+        const title_prefix = _.get(section, 'title_prefix');
+        const title_highlight = _.get(section, 'title_highlight');
+        const title_suffix = _.get(section, 'title_suffix');
         const subtitle = _.get(section, 'subtitle');
         const actions = _.get(section, 'actions');
         const hasBackground = _.get(section, 'has_background');
@@ -64,7 +66,7 @@ export default class HeroSection extends React.Component {
                             </div>
                         )}
                         <div className="cell section__body">
-                            {title && <h1 className="section__title">{title}</h1>}
+                            {title_prefix && <h1 className="section__title">{title_prefix} <b>{title_highlight}</b> {title_suffix}</h1>}
                             {subtitle && <div className="section__copy "><p>{subtitle}</p></div>}
                             {!_.isEmpty(actions) && (
                                 <div className="section__actions btn-group">
