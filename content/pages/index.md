@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Are you ready for more digital?
-    subtitle: We are here to help you
+    subtitle: We can deliver digital tranformation for your
     actions:
       - label: Learn More
         url: /features
