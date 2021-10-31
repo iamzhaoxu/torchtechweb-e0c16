@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Ready for more digital?
+    title: Are you ready for more digital?
     subtitle: We are here to help your business with digital transformation
     actions:
       - label: Learn More
