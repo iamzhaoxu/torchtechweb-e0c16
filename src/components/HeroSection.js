@@ -28,7 +28,7 @@ export default class HeroSection extends React.Component {
         const image = _.get(section, 'image');
         const imageAlt = _.get(section, 'image_alt', '');
         const imagePosition = _.get(section, 'image_position', 'left');
-        const title = _.get(section, 'title');
+        const title_prefix = _.get(section, 'title_prefix');
         const title_highlight = _.get(section, 'title_highlight');
         const subtitle = _.get(section, 'subtitle');
         const actions = _.get(section, 'actions');
