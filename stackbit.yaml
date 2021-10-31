@@ -405,7 +405,7 @@ models:
     fields:
       - type: string
         name: title_prefix
-        label: Title
+        label: Title Prefix
         description: The title prefix of the section
       - type: string
         name: title_prefix
