@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: /images/9J5A8177.JPG
+    image: /images/9J5A8177-removebg-preview.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
