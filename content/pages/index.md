@@ -81,7 +81,7 @@ sections:
     background_color: gray
 seo:
   title: TorchTech Professional Consultant
-  description: The preview of the Starter theme
+  description: We are here to help your business with digital transformation
   extra:
     - name: 'og:type'
       value: website
