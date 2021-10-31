@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Are you ready for more digital?
-    subtitle: We can deliver digital transformation for your
+    subtitle: We can deliver digital transformation for your business !
     actions:
       - label: Learn More
         url: /features
