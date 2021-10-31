@@ -410,7 +410,7 @@ models:
       - type: string
         name: title_highlight
         label: Title Highlight
-        description: The title prefix of the section
+        description: The title highlight of the section
       - type: string
         name: title_prefix
         label: Title
