@@ -404,7 +404,7 @@ models:
     labelField: title
     fields:
       - type: string
-        name: title
+        name: title_prefix
         label: Title
         description: The title of the section
       - type: string
