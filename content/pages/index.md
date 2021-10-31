@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Weclome to Torch Tech Professional Consultant
-    subtitle: We are here to help client
+    subtitle: We are here to help your business with
     actions:
       - label: Learn More
         url: /features
