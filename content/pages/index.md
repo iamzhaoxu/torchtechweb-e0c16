@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Are Your Business Ready For More Digital Blooming?
+    title: Are Your Business Ready For 
     title_hightlight: More Digital Blooming?
     subtitle: The fast and simple way to transform your organization IT experience
     actions:
