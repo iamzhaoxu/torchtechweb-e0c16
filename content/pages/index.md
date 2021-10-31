@@ -12,7 +12,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: /images/Z9wUFrn.jpeg
+    image: /images/photomania-64d1967425e80a3e3143a35390e44b8d-removebg-preview.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
