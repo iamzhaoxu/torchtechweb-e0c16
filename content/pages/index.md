@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to TorchTech!
+    title: Ready for more digital?
     subtitle: We are here to help your business with digital transformation
     actions:
       - label: Learn More
