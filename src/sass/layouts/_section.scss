@@ -18,14 +18,14 @@
   }
 }
 
-.bg-blue,
+.bg-orange,
 .bg-gray,
 .has-bg {
   padding-bottom: 3.75em;
   padding-top: 3.75em;
 }
 
-.bg-blue {
+.bg-orange {
   background-color: $color-inverse-bg;
 }
 
@@ -97,7 +97,7 @@
 }
 
 .section--cta {
-  .bg-blue,
+  .bg-orange,
   .bg-gray {
     border-radius: 3px;
   }

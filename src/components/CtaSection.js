@@ -18,8 +18,8 @@ export default class CtaSection extends React.Component {
                 <div className="container container--lg">
                     <div
                         className={classNames('section__body', 'align-center', {
-                            'inverse': hasBackground && backgroundColor === 'blue',
-                            'bg-blue': hasBackground && backgroundColor === 'blue',
+                            'inverse': hasBackground && backgroundColor === 'orange',
+                            'bg-orange': hasBackground && backgroundColor === 'orange',
                             'bg-gray': hasBackground && backgroundColor === 'gray'
                         })}
                     >
