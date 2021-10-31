@@ -42,8 +42,8 @@ export default class HeroSection extends React.Component {
                 className={classNames('section', 'hero', {
                     'bg-image': hasBackground && backgroundImage,
                     'bg-gray': hasBackground && backgroundColor === 'gray',
-                    'bg-blue': hasBackground && backgroundColor === 'blue',
-                    'inverse': hasBackground && backgroundColor === 'blue',
+                    'bg-orange': hasBackground && backgroundColor === 'orange',
+                    'inverse': hasBackground && backgroundColor === 'orange',
                     'section--padding': hasBackground && image
                 })}
             >
