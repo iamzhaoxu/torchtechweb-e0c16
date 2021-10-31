@@ -412,8 +412,8 @@ models:
         label: Title Highlight
         description: The title highlight of the section
       - type: string
-        name: title_prefix
-        label: Title
+        name: title_suffix
+        label: Title Suffix
         description: The title prefix of the section
       - type: string
         name: subtitle
