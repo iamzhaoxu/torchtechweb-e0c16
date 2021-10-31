@@ -14,7 +14,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: /images/photomania-64d1967425e80a3e3143a35390e44b8d-removebg-preview.png
+    image: /images/photomania-529055cdf0e33a4d608047ca09340549.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
