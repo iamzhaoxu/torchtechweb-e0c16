@@ -408,7 +408,7 @@ models:
         label: Title Prefix
         description: The title prefix of the section
       - type: string
-        name: title_prefix
+        name: title_highlight
         label: Title
         description: The title prefix of the section
       - type: string
