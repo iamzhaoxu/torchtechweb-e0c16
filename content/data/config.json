@@ -31,7 +31,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "/images/Color logo - no background.png"
+        "logo": "/images/Color logo - no background.png",
+        "logo_alt": "sss"
     },
     "footer": {
         "has_nav": true,
