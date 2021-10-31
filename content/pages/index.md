@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title_prefix: Are Your Business Ready For 
     title_highlight: More Digital Blooming?
-        title_prefix
+        title_suffix
     subtitle: The fast and simple way to transform your organization IT experience
     actions:
       - label: Learn More
