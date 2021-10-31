@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Are you ready for more digital blooming?
+    title: Are Your Business Ready For More Digital Blooming?
     subtitle: Deliver your business
     actions:
       - label: Learn More
