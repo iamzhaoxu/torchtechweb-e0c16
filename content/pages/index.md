@@ -5,7 +5,7 @@ sections:
     title_prefix: Are Your Business Ready For More
     title_highlight: Digital
     title_suffix: Blooming ?
-    subtitle: The fast and simple way to transform your organization IT experience
+    subtitle: The fast and simple way to transform your organization IT experience.
     actions:
       - label: Learn More
         url: /features
