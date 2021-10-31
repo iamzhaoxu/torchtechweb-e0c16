@@ -407,6 +407,14 @@ models:
         name: title_prefix
         label: Title
         description: The title prefix of the section
+              - type: string
+        name: title_prefix
+        label: Title
+        description: The title prefix of the section
+              - type: string
+        name: title_prefix
+        label: Title
+        description: The title prefix of the section
       - type: string
         name: subtitle
         label: Subtitle
