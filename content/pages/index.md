@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title_prefix: Are Your Business Ready For More
+    title_prefix: 'Are Your Business Ready For '
     title_highlight: Digital
     title_suffix: Blooming?
     subtitle: The fast and simple way to transform your organization IT experience.
