@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/Color logo - no background.svg"
     },
     "footer": {
         "has_nav": true,
