@@ -2,8 +2,8 @@
 title: Home
 sections:
   - type: hero_section
-    title: Weclome to Torch Tech Professional Consultant
-    subtitle: We are here to help your business with digital transformation
+    title: Are your business ready for more digital blooming?
+    subtitle: We can deliver digital transformation for your business
     actions:
       - label: Learn More
         url: /features
@@ -12,18 +12,18 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: images/hero.svg
+    image: /images/photomania-64d1967425e80a3e3143a35390e44b8d-removebg-preview.png
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
     background:
-      background_color: blue
+      background_color: orange
       background_image: images/diagonal-lines.svg
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: Services
     features:
       - title: Feature 1
         content: >-
@@ -80,8 +80,8 @@ sections:
     has_background: true
     background_color: gray
 seo:
-  title: Stackbit Starter Theme
-  description: The preview of the Starter theme
+  title: TorchTech Professional Consultant
+  description: We are here to help your business with digital transformation
   extra:
     - name: 'og:type'
       value: website

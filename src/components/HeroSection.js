@@ -14,7 +14,6 @@ export default class HeroSection extends React.Component {
             <div
                 className="bg-image__image"
                 style={{
-                    backgroundImage: `url('${withPrefix(backgroundImage)}')`,
                     opacity: backgroundOpacity,
                     backgroundSize: backgroundSize,
                     backgroundRepeat: backgroundRepeat
@@ -66,7 +65,7 @@ export default class HeroSection extends React.Component {
                         )}
                         <div className="cell section__body">
                             {title && <h1 className="section__title">{title}</h1>}
-                            {subtitle && <div className="section__copy"><p>{subtitle}</p></div>}
+                            {subtitle && <div className="section__copy "><p>{subtitle}</p></div>}
                             {!_.isEmpty(actions) && (
                                 <div className="section__actions btn-group">
                                     <SectionActions actions={actions} />

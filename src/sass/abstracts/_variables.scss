@@ -30,13 +30,13 @@ $color-nav-link-hover:         #28aaff !default;
 $color-nav-link-active:        #28aaff !default;
 
 // Inverse (light text on dark background)
-$color-inverse-text:           #f5f6f7 !default;
-$color-inverse-heading:        #fff !default;
-$color-inverse-bg:             #005bc4 !default;
-$color-inverse-link:           #f5f6f7 !default;
+$color-inverse-text:           #f25939 !default;
+$color-inverse-heading:        #000!default;
+$color-inverse-bg:             #f25939 !default;
+$color-inverse-link:           #f7f6f5 !default;
 $color-inverse-btn:            #fff !default;
-$color-inverse-btn-bg:         #28aaff !default;
-$color-inverse-btn-border:     #28aaff !default;
+$color-inverse-btn-bg:         #f25939 !default;
+$color-inverse-btn-border:     #f24f39 !default;
 $color-inverse-btn-alt:        #28aaff !default;
 $color-inverse-btn-alt-bg:     #fff !default;
 $color-inverse-btn-alt-border: #fff !default;
@@ -48,7 +48,7 @@ $box-shadow: 0 0 1em rgba(0,0,0,.08) !default;
 
 
 // Typography
-$font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans",Helvetica,sans-serif;
+$font-family-sans-serif: -apple-system,AirbnbCerealMediu,"sans-serif",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans",Helvetica,sans-serif;
 $font-family-monospace:  Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 $font-family-base:       $font-family-sans-serif;
 
@@ -57,7 +57,7 @@ $font-family-base:       $font-family-sans-serif;
 $width-xs: 360px !default;
 $width-sm: 460px !default;
 $width-md: 740px !default;
-$width-lg: 1140px !default;
+$width-lg: 1240px !default;
 
 
 // Breakpoints
